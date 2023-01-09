@@ -1,10 +1,22 @@
 nom;prenom;jour;mois;annee;projet
 Kernighan;Brian;1;1;1942;programmer avec style
 Hopper;Grace;9;12;1906;code machine
-Torvald;Linus;28;12;1969;système d'exploitation
+Torvalds;Linus;28;12;1969;système d'exploitation
 Knuth;Donald;10;1;1938;tout sur les algorithmes
 Turing;Alan;23;6;1912;codes secrets
 Pascal;Blaise;19;6;1623;machine arithmétique
 Hamilton;Margaret;17;8;1936;module lunaire
 Perlis;Alan;1;4;1922;ce qu'un programmeur doit savoir
 Jacquard;Joseph Marie;7;7;1752;programmer des dessins
+Lovelace;Ada;10;12;1815;première informaticienne de l'Histoire
+Berners-Lee;Tim;8;6;1955;a développé le World Wide Web
+Gates;Bill;28;10;1955;cofondateur de Microsoft en 1975
+Wozniak;Steve;11;8;1950;concepteur des Apple 1 et 2
+Page;Larry;26;3;1973;cofondateur du site Google
+Thompson;Ken;4;2;1943;concepteur du système Unix
+Gosling;James;19;5;1955;concepteur du langage de programmation Java
+von Rossum;Guido;31;1;1956;créateur du langage de programmation Python
+Babbage;Charles;26;12;1791;a énoncé le principe d'un ordinateur.
+Shannon;Claude;30;4;1916;père fondateur, de la théorie de l'information.
+von Neumann;John;8;2;1957;architecture de von Neumann
+Boole;George;2;11;1815;créateur de la logique moderne
